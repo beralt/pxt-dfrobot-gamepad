@@ -6,9 +6,13 @@ namespace gamepad {
     let initialized = false
 
     export enum Direction {
+        //% block="Forward"
         Forward = 0,
+        //% block="Backward"
         Backward,
+        //% block="Left"
         Left,
+        //% block="Right"
         Right,
     }
 
@@ -18,9 +22,13 @@ namespace gamepad {
     }
 
     export enum Button {
+        //% block="Green"
         Green = 0,
+        //% block="Yellow"
         Yellow,
+        //% block="Red"
         Red,
+        //% block="Blue"
         Blue,
         A,
         B,
