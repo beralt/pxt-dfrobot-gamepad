@@ -1,0 +1,8 @@
+{
+  "gamepad.button_pressed|block": "%button button pressed",
+  "gamepad.joystick_direction|block": "joystick %direction direction",
+  "gamepad.joystick_value|block": "joystick %axis value",
+  "gamepad.on_button_pressed|block": "when %button is pressed",
+  "gamepad.vibrate|block": "set vibrate to %on",
+  "{id:category}Gamepad": "Gamepad"
+}

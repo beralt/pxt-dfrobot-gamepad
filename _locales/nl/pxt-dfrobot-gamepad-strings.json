@@ -1,0 +1,8 @@
+{
+  "gamepad.button_pressed|block": "%button ingedrukt",
+  "gamepad.joystick_direction|block": "joystick %direction richting",
+  "gamepad.joystick_value|block": "joystick %axis waarde",
+  "gamepad.on_button_pressed|block": "als %button wordt ingedrukt",
+  "gamepad.vibrate|block": "zet trilmotor %on",
+  "{id:category}Gamepad": "Gamepad"
+}

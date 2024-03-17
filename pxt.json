@@ -10,7 +10,11 @@
     "files": [
         "README.md",
         "main.ts",
-        "joystick.ts"
+        "joystick.ts",
+        "_locales/pxt-dfrobot-gamepad-jsdoc-strings.json",
+        "_locales/pxt-dfrobot-gamepad-strings.json",
+        "_locales/nl/pxt-dfrobot-gamepad-jsdoc-strings.json",
+        "_locales/nl/pxt-dfrobot-gamepad-strings.json"
     ],
     "testFiles": [
         "test.ts"
