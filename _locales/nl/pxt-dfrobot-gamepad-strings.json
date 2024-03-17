@@ -1,4 +1,12 @@
 {
+  "gamepad.Button.Blue|block": "Blauw",
+  "gamepad.Button.Green|block": "Groen",
+  "gamepad.Button.Red|block": "Rood",
+  "gamepad.Button.Yellow|block": "Geel",
+  "gamepad.Direction.Backward|block": "Achteruit",
+  "gamepad.Direction.Forward|block": "Vooruit",
+  "gamepad.Direction.Left|block": "Links",
+  "gamepad.Direction.Right|block": "Rechts",
   "gamepad.button_pressed|block": "%button ingedrukt",
   "gamepad.joystick_direction|block": "joystick %direction richting",
   "gamepad.joystick_value|block": "joystick %axis waarde",

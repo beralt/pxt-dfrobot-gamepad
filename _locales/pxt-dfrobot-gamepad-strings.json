@@ -1,4 +1,12 @@
 {
+  "gamepad.Button.Blue|block": "Blue",
+  "gamepad.Button.Green|block": "Green",
+  "gamepad.Button.Red|block": "Red",
+  "gamepad.Button.Yellow|block": "Yellow",
+  "gamepad.Direction.Backward|block": "Backward",
+  "gamepad.Direction.Forward|block": "Forward",
+  "gamepad.Direction.Left|block": "Left",
+  "gamepad.Direction.Right|block": "Right",
   "gamepad.button_pressed|block": "%button button pressed",
   "gamepad.joystick_direction|block": "joystick %direction direction",
   "gamepad.joystick_value|block": "joystick %axis value",
